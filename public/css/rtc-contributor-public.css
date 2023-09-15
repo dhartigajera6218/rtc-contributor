@@ -1,0 +1,31 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ 
+ .rtc_post_meta_part {
+    margin: 20px 0;
+}
+.rtc_post_meta_part h3 {
+    border-bottom: 1px solid;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 15px;
+}
+
+
+.rtc_post_meta_part {
+    border: 1px solid #000;
+}
+
+.rtc_post_meta_content {
+    margin: 15px;
+}
+.rtc_post_meta_div {
+    padding-bottom: 15px;
+}
+
+.rtc_post_meta_div img {
+    vertical-align: middle;
+    padding-right: 10px;
+}
